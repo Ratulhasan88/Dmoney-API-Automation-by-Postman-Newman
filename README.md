@@ -23,8 +23,8 @@
 ## How to Run
 - Clone this project
 - Give folloing command:
-- ''' npm i '''
-- ''' npm test '''
+- ``` npm i ```
+- ``` npm test ```
 
 ## Dmoney API documentation:
 https://documenter.getpostman.com/view/29168397/2s9Y5YRhfE
